@@ -3,7 +3,7 @@ Datasets for the Saint George on a Bike project
 
 ## Object detection dataset
 
-Dataset for detecting objects in paintings. All the data has been harvested using the [python wrapper](https://github.com/europeana/rd-europeana-python-api/tree/master/europeana) for Europeana's Search API . 
+Dataset for detecting objects in paintings. All the data has been harvested using the [python wrapper](https://github.com/europeana/rd-europeana-python-api) for Europeana's Search API . 
 
 The field reusability was set to open, so all images collected are of public use. 
 
