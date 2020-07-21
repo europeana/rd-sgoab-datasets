@@ -7,7 +7,7 @@ Dataset for detecting objects in paintings. All the data has been harvested usin
 
 The field reusability was set to open, so all images collected are of public use. 
 
-The queries have been obtained from the [list of classes](https://docs.google.com/spreadsheets/d/12dAgM4DKX-y6UH4TVF_Q_DjAd4kNz_2g0qIyleQqmAM/edit#gid=0) and translated to other languages for matching a greater number of results
+The queries are about symbols and mythological entities and are translated to other languages for matching a greater number of results
 
 [Example Multilingual Harvesting](https://colab.research.google.com/drive/1gTBo32a3RPWDhLbVwIh1gFqoFrlvXMAB?usp=sharing) 
 
