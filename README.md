@@ -20,12 +20,9 @@ Clone the repository
 ```
 git clone https://github.com/europeana/rd-sgoab-datasets.git
 cd rd-sgoab-datasets
-
 ```
 
-
 ```
-
 import json
 
 with open('SGoaB_object_det_359_annotated_254.json') as f:
