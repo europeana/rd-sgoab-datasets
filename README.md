@@ -18,8 +18,8 @@ Annotated with the [VGG annotation tool](http://www.robots.ox.ac.uk/~vgg/softwar
 Clone the repository
 
 ```
-git clone https://github.com/joseed-europeana/SGoaB-object-detection.git
-cd SGoaB-object-detection
+git clone https://github.com/europeana/rd-sgoab-datasets.git
+cd rd-sgoab-datasets
 
 ```
 
@@ -28,7 +28,7 @@ cd SGoaB-object-detection
 
 import json
 
-with open('SGoaB_359_annotated_254.json') as f:
+with open('SGoaB_object_det_359_annotated_254.json') as f:
   d = json.load(f)
 
 data_dict = d['_via_img_metadata']
